@@ -1,6 +1,6 @@
 # Installation
 
-#### [.NET apps](https://learn.microsoft.com/en-us/dotnet/core/introduction)
+## .NET apps
 
 Syllabore is available as a [NuGet](https://learn.microsoft.com/en-us/nuget/what-is-nuget) package. You can install it from your [NuGet package manager in Visual Studio](https://learn.microsoft.com/en-us/nuget/consume-packages/install-use-packages-visual-studio) (search for "Syllabore") or by running the following command in your NuGet package manager console:
 
@@ -8,7 +8,7 @@ Syllabore is available as a [NuGet](https://learn.microsoft.com/en-us/nuget/what
 Install-Package Syllabore
 ```
 
-#### [Godot Engine](https://godotengine.org/)
+## Godot Engine
 
 There are a couple ways to do this in [Godot](https://godotengine.org/):
 
@@ -19,7 +19,7 @@ There are a couple ways to do this in [Godot](https://godotengine.org/):
 dotnet add package Syllabore
 ```
 
-### Compatibility
+## Compatibility
 
 By design, Syllabore is a [.NET Standard](https://learn.microsoft.com/en-us/dotnet/standard/net-standard?tabs=net-standard-1-0) 2.0 class library. This means it will be compatible with applications using:
 
