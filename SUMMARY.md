@@ -7,6 +7,7 @@
 ## Advanced Control
 
 * [Positioning](advanced-control/positioning.md)
+* [Sequences](advanced-control/sequences.md)
 * [Probabilities](advanced-control/probabilities.md)
 * [Weights](advanced-control/weights.md)
 * [Filtering](advanced-control/filtering.md)
